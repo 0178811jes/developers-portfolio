@@ -186,3 +186,13 @@ main{
 .contact a{
     text-decoration: none;
 }
+/* footer */
+.footer{
+    text-align: center;
+    color: #FFFFFF;
+    background: #000;
+    font-weight: 600;
+    font-size: 18px;
+    margin: 20px;
+    padding: 20px;
+}
